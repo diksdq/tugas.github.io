@@ -1,0 +1,17 @@
+header{
+.menu-icon{
+    display: block;
+}
+}
+@media (max-width : 1000px) {
+main{
+   width : 50%;
+   margin-bottom : 50px;
+}      
+}
+
+@media (max-width : 670px) {
+main{
+       width : 100%;
+}      
+}
